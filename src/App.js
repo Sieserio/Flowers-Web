@@ -1,9 +1,11 @@
+import React from "react";
+import MainTitleImage from "./components/MainTitleImage";
+import './style/App.css'
 
-
-function App() {
+const App = () =>  {
   return (
     <div className="App">
-      Ghbfd
+      <MainTitleImage/>
     </div>
   );
 }

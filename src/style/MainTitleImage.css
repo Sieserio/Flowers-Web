@@ -1,0 +1,23 @@
+.MainTitleImage {
+    width: 100%;
+    height: 650px;
+    background-image: url(../image/imagePageMain/MainImage.png);
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    padding: 105px 0 0 85px;
+}
+
+
+.BigTitle--marginBottom{
+    margin-bottom: 16px;
+}
+
+.NormalText--marginBottom{
+    margin-bottom: 36px;
+}
+
+.MainTitleImage--inner{
+    max-width: 660px;
+}
+

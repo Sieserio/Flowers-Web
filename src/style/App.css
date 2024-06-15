@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Mukta";
+    src: url('./font/Mukta-Bold.ttf');
+}
+
+.App {
+    margin:  auto;
+    max-width: 1869px;
+}
+
+.NormalText{
+    font-size: 20px ;
+    color: #777373;
+}
+
+.BigTitle{
+    font-size: 64px;
+    color: #000;
+}
+
+.mukta-bold {
+    font-family: "Mukta", sans-serif;
+    font-weight: bold;
+    line-height: 120%;
+    letter-spacing: -2px;
+}

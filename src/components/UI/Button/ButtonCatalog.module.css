@@ -1,0 +1,10 @@
+.ButtonCatalog {
+    width: 355px;
+    height: 73px;
+    padding: 25px 45px;
+    background-color: #333434;
+
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+}
